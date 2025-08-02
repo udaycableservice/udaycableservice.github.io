@@ -1,0 +1,128 @@
+# Digital Cable Service Providers Data
+company:
+  name: "Uday Cable Service"
+  established: 1992
+  tagline: "Your Trusted Local Digital Cable Provider Since 1992"
+  address: "No. 108, TTK Road, Alwarpet, Chennai – 600018"
+  phone: "9884165926"
+  customers: "1000+"
+  experience: "30+"
+
+overview:
+  customers: "1000+"
+  providers: 3
+  resolution: "4K"
+  audio: "Dolby Atmos"
+  description: "Over 1000+ customers are connected through 3 major digital cable service providers. These companies offer 4K resolution and Dolby Atmos surround sound via advanced set-top boxes."
+
+service_areas:
+  - "Alwarpet"
+  - "Mylapore" 
+  - "Teynampet"
+  - "Abhiramapuram"
+  - "CIT Colony"
+
+offerings:
+  - title: "Seamless Digital Cable TV Services"
+    description: "Crystal clear picture quality and rich audio"
+  - title: "Integrated MSO Access"
+    description: "Top MSOs like SCV, TCCL, and VK Digital providing 4K resolution and Dolby Atmos"
+  - title: "Flexible Channel Packages"
+    description: "Tailored packages for entertainment, sports, movies, and regional content"
+  - title: "Advanced Set-Top Boxes"
+    features:
+      - "HD and 4K support"
+      - "USB Recording"
+      - "Pause & Play Live TV"
+      - "Multi-language audio options"
+      - "Parental controls"
+
+strengths:
+  - title: "Local Expertise"
+    description: "Personal support with quick installation, service, and customer care"
+  - title: "Uninterrupted Service"
+    description: "Weather-resistant digital cable connection"
+  - title: "Affordable Plans"
+    description: "Value-driven plans for every household"
+  - title: "Reliable Infrastructure"
+    description: "Dedicated last-mile connectivity across the region"
+
+why_choose:
+  - "30+ Years of Experience"
+  - "Strong Community Trust & Support"
+  - "Access to Leading MSO Technology"
+  - "Prompt Customer Support & Maintenance"
+  - "Expanding Coverage Across South Chennai"
+
+operators:
+  scv:
+    name: "SCV (Sumangali Cable Vision)"
+    full_name: "Sumangali Cable Vision"
+    description: "Tamil Nadu's leading MSO with over 2 decades of service"
+    highlights:
+      - "Tamil Nadu's leading MSO with over 2 decades of service"
+      - "Known for technological leadership and last-mile connectivity"
+      - "Offers 300+ SD and 90+ HD channels"
+      - "Strong infrastructure ensures uninterrupted signal, regardless of weather"
+      - "First to launch HD set-top boxes in cable TV"
+    features:
+      - "Digital service with crystal-clear picture & cinema-quality surround sound"
+      - "HDMI output"
+      - "USB recording"
+      - "Pause/Play live TV"
+      - "Multi-language support"
+      - "Parental lock"
+      - "Learning remote (controls TV & STB)"
+    channels:
+      sd: "300+"
+      hd: "90+"
+
+  tccl:
+    name: "TCCL (Thamizhaga Cable TV Communication Ltd)"
+    full_name: "Thamizhaga Cable TV Communication Ltd"
+    description: "Serving 3+ million households via 8000+ cable operators"
+    highlights:
+      - "Serving 3+ million households via 8000+ cable operators"
+      - "Operational in Tamil Nadu, Andhra Pradesh & Karnataka"
+      - "Offers 500 digital channels with high-quality sound and video"
+      - "Backbone includes 8500 KM fibre optic network"
+      - "Originated from the Tamil Nadu Cable TV Operators Welfare Association"
+    features:
+      - "High-end Digital Head End & DAS support"
+      - "HD & 3D content support"
+      - "Future upgrades (VOD, e-commerce, gaming, etc.)"
+      - "Secure Conditional Access System (CAS)"
+      - "Technologically superior set-top boxes"
+    network:
+      fiber: "8500 KM"
+      households: "3+ million"
+      operators: "8000+"
+      channels: "500"
+
+  vk_digital:
+    name: "VK Digital"
+    full_name: "VK Digital"
+    description: "Cutting-edge digital cable TV with HD video and Dolby Digital 5.1 sound"
+    highlights:
+      - "Offers cutting-edge digital cable TV with HD video and Dolby Digital 5.1 sound"
+      - "Provides 400+ channels across various genres and languages"
+      - "Offers a value-for-money experience"
+      - "1080i HD video resolution"
+      - "Weather-proof service—unaffected by rain"
+    features:
+      - "1080i HD video resolution"
+      - "Weather-proof service"
+      - "Advanced Electronic Programming Guide (EPG)"
+      - "Genre-based listings"
+      - "Program search"
+      - "Parental controls"
+      - "Reminder features"
+    channels: "400+"
+    resolution: "1080i HD"
+
+common_benefits:
+  - "High Definition (HD) & Surround Sound (Dolby Atmos or Dolby Digital)"
+  - "Advanced Set-Top Boxes with recording, live TV pause/play, and more"
+  - "Reliable connectivity, unaffected by bad weather"
+  - "Wide range of channels and local language support"
+  - "Cost-effective digital viewing with added features like EPG and VOD"
